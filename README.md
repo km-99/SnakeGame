@@ -8,4 +8,8 @@ https://drive.google.com/drive/folders/1Trh8cnIy_tpDuRsKwlz3zEcqPEwd2GPQ?usp=sha
 
 ### Project Snips:
 
+![Screenshot (4)](https://github.com/km-99/SnakeGame/assets/123990224/b3533ca0-9d66-4f09-b8f5-f58824559cb8)
+
+
+![Screenshot (5)](https://github.com/km-99/SnakeGame/assets/123990224/6b5bc449-2a02-479f-8cdb-1ec961256398)
 
